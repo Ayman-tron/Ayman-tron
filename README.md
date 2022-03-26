@@ -1,6 +1,6 @@
 ## Hello there 👋 
 - 👀 I am currently exploring different frameworks for Web development.
-- 🌱 I’m currently learning Javascript, Python3 and Arduino programming
+- 🌱 I’m currently learning ROS, Javascript, Python3 and Arduino programming
 - 📫 How to reach me:
   * ayman.abdulkadir@ontariotechu.net
 
